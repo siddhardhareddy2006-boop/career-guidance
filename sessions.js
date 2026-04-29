@@ -1,0 +1,11 @@
+PORT=5050
+MONGODB_URI=mongodb+srv://jessdiffers_db_user:8IpO0C3IUlRJ8mD4@db.z0yhqml.mongodb.net/
+JWT_SECRET=A+7AOKVehjEN+tUVTYTjWXh+cjJeeU6MvelIwaVEyDM=
+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
+
+
+# Optional: AI-powered career suggestions (Profile → interests & skills)
+OPENAI_API_KEY=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
+# Or use the same key under:
+CHATGPT_API_KEY=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
+OPENAI_MODEL=gpt-4o-mini
